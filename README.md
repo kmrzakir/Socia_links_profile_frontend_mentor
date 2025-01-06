@@ -9,15 +9,13 @@ This is a solution to a Frontend Mentor challenge. The project involves building
 - Minimalistic CSS styling.
 
 ## Screenshot
-<!-- ![Social Link Profile Screenshot](#)
-*Replace the # with the actual path to your screenshot image.* -->
-[Desktop View](./images/desktop_view.png)
-[Phone View](./images/phone_view.png)
+[Desktop View](./images/desktop_view.png).
+[Phone View](./images/phone_view.png).
 
 ## Links
-- **Live Site:** [Your Live Site URL Here](#)
-- **Frontend Mentor Solution Page:** [Your Solution Page URL Here](#)
+- **Live Site:** [Your Live Site URL Here](https://kmrzakir.github.io/Socia_links_profile_frontend_mentor/)
+- **Frontend Mentor Solution Page:** [Click](https://www.frontendmentor.io/solutions/i-use-the-rem-unit-to-make-the-text-responsive-Qyq169eGTW)
 
 ## Author
-- **Frontend Mentor Profile:** [Your Profile Link Here](https://www.frontendmentor.io/profile/kmrzakir)
+- **Frontend Mentor Profile:** [Zakir Mustafa](https://www.frontendmentor.io/profile/kmrzakir)
 - **GitHub:** [kmrzakir](https://github.com/kmrzakir)

@@ -79,6 +79,10 @@ p{
     border-radius: 10px;
     font-size: 0.8rem;
 }
+.social_media_links a:hover{
+    background-color: var(--secondary-color);
+    color: black;
+}
 @media(width < 350px)
 {
 
