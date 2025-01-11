@@ -13,7 +13,7 @@ This is a solution to a Frontend Mentor challenge. The project involves building
 [Phone View](./images/phone_view.png).
 
 ## Links
-- **Live Site:** [Your Live Site URL Here](https://kmrzakir.github.io/Socia_links_profile_frontend_mentor/)
+- **Live Site:** [Site URL](https://kmrzakir.github.io/Socia_links_profile_frontend_mentor/)
 - **Frontend Mentor Solution Page:** [Click](https://www.frontendmentor.io/solutions/i-use-the-rem-unit-to-make-the-text-responsive-Qyq169eGTW)
 
 ## Author
